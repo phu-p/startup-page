@@ -21,6 +21,11 @@ h1 {
   text-transform: uppercase;
 }
 
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+
 .btn-xl {
   padding: 1rem 2rem;
 }
