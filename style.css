@@ -17,6 +17,8 @@ h1 {
 
 hr {
   border-color: #F05F44;
+  border-width: 3px;
+  max-width: 65px;
 }
 
 .btn {
